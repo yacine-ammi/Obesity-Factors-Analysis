@@ -2,17 +2,13 @@
 ## Objective
 The objective of the study is to identify the factors that affect obesity the most. To achieve this, three approaches are used: PCA, classification, and regression. 
 
-<a href="https://nbviewer.jupyter.org/github/yacine-ammi/Obesity-Factors-Analysis/blob/main/obesity-factors-analysis.ipynb" target="_blank">
-    <img src="https://img.shields.io/badge/render-nbviewer-blue.svg" alt="Open In nbviewer"/>
-</a>
+You can view code in:
 
-<a href="https://www.kaggle.com/code/ammiyacine/obesity-factors-analysis" target="_blank">
-    <img src="https://img.shields.io/badge/Open%20In-Kaggle-blue" alt="Open In Kaggle"/>
-</a>
+[![Open In nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/yacine-ammi/Obesity-Factors-Analysis/blob/main/obesity-factors-analysis.ipynb)
+[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/ammiyacine/obesity-factors-analysis)
+[![GitHub](https://badges.aleen42.com/src/github.svg)](https://www.github.com/yacine-ammi/Obesity-Factors-Analysis/blob/main/obesity-factors-analysis.ipynb)
 
-<a href="https://www.github.com/yacine-ammi/Obesity-Factors-Analysis/blob/main/obesity-factors-analysis.ipynb" target="_blank">
-    <img src="https://img.shields.io/badge/Open%20in-GitHub-blue" alt="Open In Github"/>
-</a>
+
 
 ## About the dataset
 This dataset include data for the estimation of obesity levels in individuals from the countries of Mexico, Peru and Colombia, based on their eating habits and physical condition. 77% of the data was generated synthetically using the Weka tool and the SMOTE filter, 23% of the data was collected directly from users through a web platform.
